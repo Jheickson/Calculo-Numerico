@@ -1,0 +1,3 @@
+A partir dos dados armazenados nas colunas "Temperatura" e "Umidade" foram criados os gráficos de Boxplot, Dispersão e Série Temporal.
+Porém antes da criação dos gráficos houve um tratamento nos dados para remover as entradas que, provavelmente, foram provenientes de erros nos equipamentos de registro. Os parâmetros de exclusão foram: Entradas com valores abaixo de vinte graus para a Temperatura e entradas com valores abaixo de 40 para a Umidade.
+O código foi escrito em Python 3 e contou com as bibliotecas Pandas (Leitura do arquivo .xlsx), Matplotlib (Criação e exibição dos gráficos) e Seaborn (Criação do gráfico de Boxplot).
