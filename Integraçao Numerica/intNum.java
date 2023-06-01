@@ -21,7 +21,5 @@ public class intNum {
       System.out.println(A - 3.0612);
       }
 
-      System.out.println("Teste")
-
     }
 }
